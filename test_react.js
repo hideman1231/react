@@ -105,17 +105,19 @@ const lol = 'lul'
 
 const shallowCopy2 = {...firm, op() {}, lol}
 
-console.log(shallowCopy2)
+// console.log(shallowCopy2)
 
+function Animal(name, voice) {
+    this.name = name
+    this.voice = voice
+};
 
+const dog = new Animal('bob', 'woof');
+const cat = new Animal('mus', 'meav');
 
+Animal.prototype.say = function() {
+        console.log(`${this.name} says: ${this.voice}`)
+};
 
-
-
-
-
-
-
-
-
-
+dog.say();
+cat.say();
