@@ -4,6 +4,70 @@
 		"selected_items":
 		[
 			[
+				"Ap",
+				"AppHeader\tabc"
+			],
+			[
+				"co",
+				"const\tabc"
+			],
+			[
+				"re",
+				"ReactDOM"
+			],
+			[
+				"rea",
+				"react\tabc"
+			],
+			[
+				"ex",
+				"export\t? "
+			],
+			[
+				"console",
+				"console.log\t(test_react.js)"
+			],
+			[
+				"cons",
+				"constructor\tabc"
+			],
+			[
+				"creat",
+				"createAnimal"
+			],
+			[
+				"shall",
+				"shallowCopy2\tabc"
+			],
+			[
+				"pr",
+				"programming\tabc"
+			],
+			[
+				"con",
+				"console\tabc"
+			],
+			[
+				"Ma",
+				"Math\t{} "
+			],
+			[
+				"l",
+				"log\tabc"
+			],
+			[
+				"parse",
+				"parseInt\tfn "
+			],
+			[
+				"par",
+				"parseInt\tfn "
+			],
+			[
+				"fun",
+				"function\t(App.js)"
+			],
+			[
 				"fu",
 				"fup\tReact: forceUpdate(...)"
 			]
@@ -12,19 +76,19 @@
 	"buffers":
 	[
 		{
-			"file": "App.js",
+			"file": "index.js",
 			"settings":
 			{
-				"buffer_size": 523,
+				"buffer_size": 1041,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/ddi-dev/Desktop/mywork/work/test_react.js",
+			"file": "/home/ddi-dev/Desktop/mywork/work/todo/public/index.html",
 			"settings":
 			{
-				"buffer_size": 91,
+				"buffer_size": 293,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -42,6 +106,46 @@
 		"selected_items":
 		[
 			[
+				"anaconda",
+				"Anaconda: Vagrant Reload"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"anca",
+				"Anaconda: Vagrant Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Channel"
+			],
+			[
+				"ja",
+				"Snippet: Object Value JS"
+			],
+			[
+				"codeint",
+				"Snippet: React: componentDidMount: fn() { ... }"
+			],
+			[
 				"insat",
 				"Package Control: Install Package"
 			],
@@ -54,20 +158,8 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"insta",
-				"Package Control: Install Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"Package Control: ",
 				"Package Control: Install Package"
-			],
-			[
-				"packa",
-				"Install Package Control"
 			],
 			[
 				"pac",
@@ -98,16 +190,27 @@
 	},
 	"expanded_folders":
 	[
+		"/home/ddi-dev/Desktop/mywork/work/todo",
+		"/home/ddi-dev/Desktop/mywork/work/todo/public",
 		"/home/ddi-dev/Desktop/mywork/work/todo/src"
 	],
 	"file_history":
 	[
+		"/home/ddi-dev/Desktop/mywork/work/todo/package.json",
+		"/home/ddi-dev/Desktop/mywork/work/todo/modules.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/mod.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/test_react.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/package-lock.json",
+		"/home/ddi-dev/Desktop/mywork/work/mod.js",
+		"/home/ddi-dev/Desktop/mywork/work/modules.js",
+		"/home/ddi-dev/Desktop/mywork/work/test_react.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/App.js",
 		"/home/ddi-dev/Desktop/mywork/work/cinema/mycinema/api/resources.py",
 		"/home/ddi-dev/Desktop/mywork/test.py"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 47.0
 	},
 	"find_in_files":
 	{
@@ -138,30 +241,57 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "App.js",
+					"file": "index.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 523,
+						"buffer_size": 1041,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								501,
-								501
+								769,
+								769
 							]
 						],
 						"settings":
 						{
-							"auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ddi-dev/Desktop/mywork/work/todo/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -170,35 +300,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/ddi-dev/Desktop/mywork/work/test_react.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 91,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"auto_complete": true,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -210,7 +311,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 47.0
 	},
 	"layout":
 	{
