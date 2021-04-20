@@ -4,12 +4,128 @@
 		"selected_items":
 		[
 			[
-				"Ap",
-				"AppHeader\tabc"
+				"imp",
+				"important\tabc"
+			],
+			[
+				"se",
+				"setState\tabc"
+			],
+			[
+				"to",
+				"toggleProperty\tabc"
+			],
+			[
+				"todo",
+				"todoData\tabc"
+			],
+			[
+				"le",
+				"length\tnum "
+			],
+			[
+				"ne",
+				"newArray\tabc"
+			],
+			[
+				"on",
+				"onToggleImportant\tabc"
+			],
+			[
+				"onTo",
+				"onToggleImportant\tabc"
+			],
+			[
+				"done",
+				"done\tabc"
+			],
+			[
+				"new",
+				"newItem\tabc"
+			],
+			[
+				"Ma",
+				"maxId"
+			],
+			[
+				"pr",
+				"props\tReact: this.props"
+			],
+			[
+				"btn-",
+				"btn-outline-success\t(todo-list-item.js)"
+			],
+			[
+				"Add",
+				"AddItem\tabc"
+			],
+			[
+				"Ad",
+				"AddItem\t(index.js)"
+			],
+			[
+				"class",
+				"className\t(todo-list-item.js)"
+			],
+			[
+				"ex",
+				"export\t? "
+			],
+			[
+				"im",
+				"import\t(todo-list-item.js)"
+			],
+			[
+				"cons",
+				"const\tabc"
+			],
+			[
+				"tod",
+				"todoData\tabc"
 			],
 			[
 				"co",
+				"console\t(todo-list.js)"
+			],
+			[
+				"con",
+				"constructor()\tconstructor()"
+			],
+			[
+				"get",
+				"get\tGet Elements"
+			],
+			[
+				"t",
+				"todo-list\tabc"
+			],
+			[
+				"todo-lis",
+				"todo-list-item\tabc"
+			],
+			[
+				"clas",
+				"className\t(todo-list.js)"
+			],
+			[
+				"cosn",
 				"const\tabc"
+			],
+			[
+				"Todo",
+				"TodoItemList\tabc"
+			],
+			[
+				"Tod",
+				"TodoList\tabc"
+			],
+			[
+				"Se",
+				"SearchPanel\tabc"
+			],
+			[
+				"Ap",
+				"AppHeader\tabc"
 			],
 			[
 				"re",
@@ -20,16 +136,8 @@
 				"react\tabc"
 			],
 			[
-				"ex",
-				"export\t? "
-			],
-			[
 				"console",
 				"console.log\t(test_react.js)"
-			],
-			[
-				"cons",
-				"constructor\tabc"
 			],
 			[
 				"creat",
@@ -38,18 +146,6 @@
 			[
 				"shall",
 				"shallowCopy2\tabc"
-			],
-			[
-				"pr",
-				"programming\tabc"
-			],
-			[
-				"con",
-				"console\tabc"
-			],
-			[
-				"Ma",
-				"Math\t{} "
 			],
 			[
 				"l",
@@ -76,19 +172,28 @@
 	"buffers":
 	[
 		{
-			"file": "index.js",
+			"file": "/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/settings.py",
 			"settings":
 			{
-				"buffer_size": 1041,
+				"buffer_size": 13248,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/ddi-dev/Desktop/mywork/work/todo/public/index.html",
+			"file": "/home/ddi-dev/Desktop/mywork/acer-hr/hr/models.py",
 			"settings":
 			{
-				"buffer_size": 293,
+				"buffer_size": 46812,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/local_settings.py",
+			"settings":
+			{
+				"buffer_size": 4272,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -106,11 +211,7 @@
 		"selected_items":
 		[
 			[
-				"anaconda",
-				"Anaconda: Vagrant Reload"
-			],
-			[
-				"insta",
+				"install",
 				"Package Control: Install Package"
 			],
 			[
@@ -118,12 +219,32 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
+				"anac",
+				"Build With: Anaconda Python Builder"
 			],
 			[
-				"install",
+				"anaconda",
+				"Build With: Anaconda Python Builder"
+			],
+			[
+				"anaco",
+				"Anaconda: Find object usage"
+			],
+			[
+				"repr",
+				"SublimeREPL: Clojure-Telnet"
+			],
+			[
+				"pep",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"anca",
@@ -190,12 +311,43 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ddi-dev/Desktop/mywork/work/todo",
-		"/home/ddi-dev/Desktop/mywork/work/todo/public",
-		"/home/ddi-dev/Desktop/mywork/work/todo/src"
+		"/home/ddi-dev/Desktop/mywork/acer-hr",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/hr"
 	],
 	"file_history":
 	[
+		"/home/ddi-dev/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/settings.py",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/hr/models.py",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/local_settings.py",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/requirements.txt",
+		"/home/ddi-dev/Desktop/mywork/acer-hr/crmfront/serializers.py",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/add-item/add-item.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/add-item/add-item.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/search-panel/search-panel.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/add-item/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app/app.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list-item/todo-list-item.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list/todo-list.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list-item/todo-list-item.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/item-status-filter/item-status-filter.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app/app.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list-item/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/search-panel/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/item-status-filter/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app-header/index.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app-header.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/public/index.html",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/search-panel.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list-item.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list-item.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list.css",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/todo-list.js",
+		"/home/ddi-dev/Desktop/mywork/work/todo/src/components/app-header.js",
 		"/home/ddi-dev/Desktop/mywork/work/todo/package.json",
 		"/home/ddi-dev/Desktop/mywork/work/todo/modules.js",
 		"/home/ddi-dev/Desktop/mywork/work/todo/mod.js",
@@ -210,7 +362,7 @@
 	],
 	"find":
 	{
-		"height": 47.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -224,6 +376,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Absence",
+			"Absebce",
+			"{ Component }"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -241,62 +396,94 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.js",
+					"file": "/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/settings.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1041,
+						"buffer_size": 13248,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								769,
-								769
+								8500,
+								8500
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 825.0,
+						"translation.y": 7050.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/ddi-dev/Desktop/mywork/acer-hr/hr/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46812,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6887,
+								6887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4881.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "/home/ddi-dev/Desktop/mywork/work/todo/public/index.html",
+					"buffer": 2,
+					"file": "/home/ddi-dev/Desktop/mywork/acer-hr/deancrm/local_settings.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 293,
+						"buffer_size": 4272,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								284,
-								284
+								2386,
+								2386
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 2,
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1500.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -307,7 +494,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 34.0
 	},
 	"input":
 	{
@@ -336,6 +523,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 169.0
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -344,7 +535,7 @@
 	"project": "App.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
